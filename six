@@ -1,0 +1,52 @@
+<html>
+    <body>
+        <h1 style="color:brown;
+        background-color: aqua;
+        front-size:12px;
+        front-family:'lucida sans';">
+        Hi Good morning
+        <a href="mailto:ganarajeshgana@gmail.com"target="_self">Redirect to specific page</a>
+    </h1>
+        <p id="p1">test</p>
+        <img src="love.jpg" width="50%"height="50%">
+        
+        <p class="p2">paragraph</p>
+        <table>
+        <tr>
+            <th>Name</th>
+            <th>age</th>
+        </tr>
+        <tbody>
+            <tr>
+                <td> sunil</td>
+                <td>18</td>
+            </tr>
+        </tbody>
+        <tfooter>
+            <tr>
+                <td >check</td>
+            </tr>
+        </tfooter>
+        </table>
+        <style>
+            #p1
+            {
+                color:rgb(255, 0, 217);
+                font-size:18px;
+            }
+            .p2
+            {
+                background-color:rgb(0, 255, 64);
+            }
+        
+        </style>
+        <ul>
+            <li>item 1</li>
+            <li>item 2</li>
+        </ul>
+        <ol>
+            <li>item 1</li>
+            <li>item </li>
+        </ol>
+    </body>
+</html>
