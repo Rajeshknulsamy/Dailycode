@@ -1,0 +1,81 @@
+<HTML>
+    <HEAD>
+        
+    </HEAD>
+    <body>
+     
+        <figure>
+            <img src="C:\Users\rajes\OneDrive\Desktop\VS\ronal.jpg">
+            <figcaption> ITs a logo</figcaption>
+        </figure>
+        <form>
+            <table>
+                <tr>
+                    <td><label>Nmae</label></td>
+                    <td><input type="text" placeholder="Enter YOur name"></td>
+                </tr>
+                <tr>
+                    <td><label>Age</label></td>
+                    <td><input type="number" placeholder="Enter your Age"></td>
+
+                </tr>
+                <tr>
+                    <td><label>password</label></td>
+                    <td><input type="password" placeholder="Enter your password"></td>
+                </tr>
+                <tr>
+                    <td><label>Genter</label></td>
+                    <td><input type="radio" name="genter">male</td><td><input type="radio" name="genter">female</td>
+                    
+                </tr>
+                <tr>
+                    <td><label>country</label></td>
+                    <td><input type="checkbox">srilank</td> 
+                    <td><input type="checkbox">india</td>
+
+                </tr>
+                <tr>
+                    <td><label>Team</label></td>
+                    <td>
+                    <select>
+                        <option>Rcb</option>
+                        <option>csk</option>
+                        <option>ind</option>
+                    </select>
+                </td>
+                </tr>
+                <tr>
+                    <td><label>date</label></td>
+                    <td><input type="date"></td>
+                </tr>
+                <tr>
+                    <td><label>Mobile Number</label></td>
+                    <td><input type="number" ></td>
+                </tr>
+                <tr>
+                    <td><label>Address</label></td>
+                    <td><textarea rows="5" cols="30" maxlength="100" placeholder="Enter your address"></textarea></td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td><label>Document</label></td>
+                    <td><input type="file" multiple></td>
+                </tr>
+                <tr>
+                    <td><label>search anything here</label></td>
+                    <td><input type="search"></td>
+                </tr>
+                <tr>
+                    <td><label>Pick your colour</label></td>
+                    <td><input type="color"></td>
+                </tr>
+                <tr>
+                    <td><center><input type="button" value="submit" onclick="alert(sucecss)"</center></td>
+                </tr>
+            </table>
+        </form>
+    
+    
+</HTML>
